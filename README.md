@@ -14,7 +14,7 @@ Schematic presentation of this idea is shown in following figure,
 
 And examples of smoothed latent spaces produced in this repository from MNIST digits and masked faces with SimpleVAE are shown in following figures,
 
-<img src="./code/graphics/Simple_VAEs.PNG" alt="Simple VAEs" width="60%"/>
+<img src="./code/graphics/Simple_VAE_examples.PNG" alt="Simple VAEs examples" width="60%"/>
 
 ### Libraries used
 
