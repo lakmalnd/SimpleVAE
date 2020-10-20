@@ -10,11 +10,15 @@ Alternatively to conventional VAE, in SimpleVAE, we simply add Gaussian noise to
 
 Schematic presentation of this idea is shown in following figure,
 
+<p align="center">
 <img src="./code/graphics/Simple_VAEs.PNG" alt="Simple VAEs" width="60%"/>
+</p>
 
 And examples of smoothed latent spaces produced in this repository from MNIST digits and masked faces with SimpleVAE are shown in following figures,
 
+<p align="center">
 <img src="./code/graphics/Simple_VAE_examples.PNG" alt="Simple VAEs examples" width="60%"/>
+</p>
 
 ### Libraries used
 
