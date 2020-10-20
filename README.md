@@ -1,6 +1,6 @@
 # SimpleVAE - Simple Way to Generate Smooth Latent Space (Tensorflow-Keras)
 
-This repository provides implementation simplified Variational Autoencoder (VAE), producing smooth latent space. And this can be used as generative model as well.
+This repository provides implementation simplified Variational Autoencoder (VAE), producing smooth latent space completely unsupervised manner. And this can be used as generative model as well.
 
 ### Introduction
 
